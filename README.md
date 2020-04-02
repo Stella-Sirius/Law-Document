@@ -6,4 +6,4 @@ With the following link, you can find all german law text.
 
 ## Global Regulation
 With the following link, you can find global regulation translated to english etc by machine.
-* [Global Law](https://www.global-regulation.cn/search.php）
+* [Global Law](https://www.global-regulation.cn）
